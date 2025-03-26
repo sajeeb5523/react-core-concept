@@ -1,6 +1,6 @@
 import Counter from './Counter';
 import Batsman from './Batsman';
-import Users from './User';
+import Users from './Users';
 import Friends from './Friends';
 import Posts from './Posts';
 import './App.css'
